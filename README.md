@@ -1,7 +1,6 @@
-# 👋 Hello, I'm Marcelo!
 
 🎓 **Engineering Student** at UTFPR
-🤖 Passionate about **Programming**, **Robotics**, **Networking** and **Cybersecurity**  
+🤖 Learning about **Programming**, **Robotics**, **Networking** and **Cybersecurity**  
 
 ---
 
@@ -22,12 +21,3 @@
 - **LinkedIn**: https://www.linkedin.com/in/marcelo-de-almeida-gomes-83721a226/
 
 ---
-```
-░  ░░░░  ░░        ░░        ░░        ░░░      ░░
-▒   ▒▒   ▒▒  ▒▒▒▒▒▒▒▒▒▒▒▒▒  ▒▒▒▒▒▒▒▒  ▒▒▒  ▒▒▒▒  ▒
-▓        ▓▓      ▓▓▓▓▓▓▓  ▓▓▓▓▓▓▓▓  ▓▓▓▓▓  ▓▓▓▓  ▓
-█  █  █  ██  █████████  ████████  ███████  ████  █
-█  ████  ██        ██        ██        ███      ██            
-                                                  
-~ Freedom Is A Right. Control Is A Lie. ~
-```
