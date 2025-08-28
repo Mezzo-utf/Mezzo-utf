@@ -1,6 +1,6 @@
 
 Engineering Student at UTFPR
-🤖 Learning about **Programming**, **Robotics**, **Networking** and **Cybersecurity**  
+Learning about Programming, Robotics, Networking and Cybersecurity  
 
 ---
 
